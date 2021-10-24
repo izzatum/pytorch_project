@@ -2,6 +2,7 @@ kornia
 pandas-bokeh
 pytorch-lightning
 deepwave
+git+https://github.com/AdamCobb/hamiltorch
   
 
 # install NVIDIA DALI
