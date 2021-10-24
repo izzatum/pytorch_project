@@ -1,6 +1,7 @@
 kornia
 pandas-bokeh
 pytorch-lightning
+deepwave
   
 
 # install NVIDIA DALI
