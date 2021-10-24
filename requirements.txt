@@ -1,5 +1,7 @@
 kornia
 pandas-bokeh
+pytorch-lightning
+  
 
 # install NVIDIA DALI
 --extra-index-url https://developer.download.nvidia.com/compute/redist
